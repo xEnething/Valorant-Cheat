@@ -7,7 +7,7 @@ A Valorant Internal Cheat by StuzziKLL's source and given some small adjustments
 #### How to use the Valorant Internal
 
 [+] - Download it, then compile the cheat
-[+] - Put all 3 files (loader.exe, driver.sys and main.dll) in the same folder
+[+] - Put both the loader.exe and the .dll in the same folder and open the loader
 [+] - This will both load the driver and then after you opened apex inject the .dll
 
 ***
