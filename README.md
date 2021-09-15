@@ -15,7 +15,7 @@ Picture of the menu:
 
 [+] - Put both the loader.exe and the .dll in the same folder and open the loader
 
-[+] - This will both load the driver and then after you opened apex inject the .dll
+[+] - This will both load the driver and then after you opened Valorant, inject the .dll
 
 ***
 
