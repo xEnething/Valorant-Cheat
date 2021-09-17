@@ -50,7 +50,7 @@ auto WINAPI DllMain(const HINSTANCE instance, const DWORD reason, LPVOID reserve
         printf("AcknowledgedPawn %p\n", AcknowledgedPawn);
         printf("ActorArray %p\n", ActorArray);
         printf("DmgHandlerLocal %p\n", DmgHandlerLocal);
-        printf("LocalPlayerState %p\n", LocalPlayerState);*/
+        printf("LocalPlayerState %p\n", LocalPlayerStat);*/
         SetupDX();
     }
     return 1;
